@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602462204840",
+    "project_id": "twoday-kotlin",
+    "storage_bucket": "twoday-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602462204840:android:8ec82f54965ff78c71e39d",
+        "android_client_info": {
+          "package_name": "com.example.twoday_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602462204840-kr7su5ag19oi9aq2bhrdtge14qba9ojn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwj0XVBOlU4ZpyedhanW2o7ZDGG7xFClg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602462204840-kr7su5ag19oi9aq2bhrdtge14qba9ojn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

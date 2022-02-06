@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Wishtree/Firebase/twoday_kotlin/app/src/main/res/layout/activity_home.xml" value="0.24635416666666668" />
+        <entry key="..\:/Wishtree/Firebase/twoday_kotlin/app/src/main/res/layout/activity_login.xml" value="0.14764492753623187" />
+        <entry key="..\:/Wishtree/Firebase/twoday_kotlin/app/src/main/res/layout/activity_signup.xml" value="0.15443840579710144" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable-v24/homescreen_card.xml" value="0.26614583333333336" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/button.xml" value="0.2611111111111111" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/button_shape.xml" value="0.26205128205128203" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/button_shape_play.xml" value="0.26205128205128203" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/cardback_login.xml" value="0.26205128205128203" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/google_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/font/alfa_slab_one.xml" value="0.15729166666666666" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/font/anton.xml" value="0.26296296296296295" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/layout/activity_home_page.xml" value="0.17300724637681159" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/layout/activity_login.xml" value="0.136" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Wishtree/twoday_kotlin/app/src/main/res/layout/activity_signup.xml" value="0.17300724637681159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
